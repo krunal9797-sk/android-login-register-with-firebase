@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477075546946",
+    "firebase_url": "https://coffeedesk-40092.firebaseio.com",
+    "project_id": "coffeedesk-40092",
+    "storage_bucket": "coffeedesk-40092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477075546946:android:fe33b1240aec440fa81edb",
+        "android_client_info": {
+          "package_name": "clg.brijesh.mohit.coffee_desk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477075546946-g4u4j1gs31mrekpqk395smsdq9vj3f75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "clg.brijesh.mohit.coffee_desk",
+            "certificate_hash": "84d9889c81db7ce97494714c51a6fa3ca21e7f4a"
+          }
+        },
+        {
+          "client_id": "477075546946-nj0dg1nvsl933ecpvroi63h3c40nfpk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTRlb7We9GyviADB7EyzndlcppldXIgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477075546946-nj0dg1nvsl933ecpvroi63h3c40nfpk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
